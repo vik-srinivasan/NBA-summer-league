@@ -1,0 +1,9 @@
+pandas>=1.5
+requests>=2.28
+beautifulsoup4>=4.11
+lxml>=4.9
+fuzzywuzzy[speedup]>=0.18
+python-Levenshtein>=0.12
+jupyterlab>=3.5
+matplotlib>=3.6
+scikit-learn>=1.2
